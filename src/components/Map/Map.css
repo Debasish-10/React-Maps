@@ -1,0 +1,17 @@
+.marker {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.mapboxgl-map {
+  height: 100vh !important;
+}
+
+.distance {
+  color: red;
+  position: relative;
+  top: -12px;
+}
